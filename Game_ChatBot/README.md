@@ -25,7 +25,7 @@ A terminal-based AI-powered PC Gaming chatbot built using:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/GameGuru.git
+git clone https://github.com/<your-username>/Agentic.git
 cd GameGuru
 ```
 
