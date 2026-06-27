@@ -79,7 +79,7 @@ RAG/
 ```bash
 git clone https://github.com/<your-username>/Agentic.git
 
-cd simple-rag
+cd rag_basic
 ```
 
 ---
